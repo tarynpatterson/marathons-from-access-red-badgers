@@ -1,11 +1,11 @@
 # Nashville Rock-and-Roll Marathon and Half-Marathon Race Results (2016 - 2019)
 
-##Summary
+## Summary
 
 For this project, we received data on both the half and full Rock-and-Roll Marathon (held in Nashville, TN) from the years 2016 to 2019. We were asked questions on these datasets and tasked to use analysis in Microsoft Excel to answer the questions. 
 
   
-##Data Questions 
+## Data Questions 
   
     1. What are the fastest time, slowest time, median, and mean times for each of the 8 races?  
     2. Find the mean and median marathon finish times for all 4 years combined.  
@@ -17,13 +17,14 @@ For this project, we received data on both the half and full Rock-and-Roll Marat
     8. What is the difference between Scott Wietecha’s time and the next fastest runner for each year?
     9. Who were the top three marathon runners for 2016, 2017, 2018, and 2019?
 
-##Analysis
+## Analysis
 
-###Data Question 1: What are the fastest time, slowest time, median, and mean times for each of the 8 races?
+### Data Question 1: What are the fastest time, slowest time, median, and mean times for each of the 8 races?
 
 The fastest, slowest, median, and mean times for each marathon are illustrated by the bar graphs below. These were found by using MIN, MAX, MEDIAN, and AVERAGE functions on each dataset.
 
-
+![half_marathon_fastest_slowest_medium_mean](https://github.com/tarynpatterson/marathons-from-access-red-badgers/blob/main/images/half_marathon_fastest_slowest_median_mean.PNG)
+![full_marathon_fastest_slowest_medium_mean](https://github.com/tarynpatterson/marathons-from-access-red-badgers/blob/main/images/full_marathon_fastest_slowest_median_mean.PNG)
 
 3. First time marathoners sometimes set a goal of beating “Oprah’s time,” Oprah Winfrey’s time (04:29:20) in the 1994 Marine Corps Marathon when she was 40 years old.  
           
